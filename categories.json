@@ -1,9 +1,9 @@
 [
   {
     "name": "Radha Krishna",
-    "thumb": "https://raw.githubusercontent.com/s-n-t-ni-a-p/res-rk/refs/heads/main/Notification.jpge",
+    "thumb": "https://raw.githubusercontent.com/s-n-t-ni-a-p/res-rk/refs/heads/main/Notification.jpg",
     "jsonUrl": "https://raw.githubusercontent.com/s-n-t-ni-a-p/res-rk/refs/heads/main/wallpapers.json",
-    "appPackage": "hcom.radhegopal.hdwallpapers", 
+    "appPackage": "com.radhegopal.hdwallpapers", 
     "downloadText": "Download Radha Krishna APP"
   }
 ]
