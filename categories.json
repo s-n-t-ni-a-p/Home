@@ -8,9 +8,22 @@
   },
   {
     "name": "Coming Soon...",
-    "thumb": "https://barnworxsk.com/cdn/shop/files/ComingSoonAnnouncement.jpg?v=1745928620&width=713", 
+    "thumb": "https://i.pinimg.com/736x/9d/53/a5/9d53a5d52520e8a6ec61a5f36f303942.jpg", 
     "jsonUrl": "https://your-link.com/empty.json", 
-    "appPackage": "com.xyz.xyz",
+    "appPackage": "com.xyz.xydddddz",
     "downloadText": "Stay Tuned!"
-  }
+  },
+    {
+    "name": "Coming Soon...",
+    "thumb": "https://file.oyephoto.com/uploads/preview/lord-hanuman-ji-full-screen-mobile-wallpaper-k5mj9vk.webp", 
+    "jsonUrl": "https://your-link.com/empty.json", 
+    "appPackage": "com.xyz.xydddddz",
+    "downloadText": "Stay Tuned!"
+  },
+      "name": "Coming Soon...",
+    "thumb": "https://img.magnific.com/premium-photo/radiant-form-ganpati-idol-nature-background-ganpati-ganesh-chaturthi_491281-1383.jpg?semt=ais_hybrid&w=740&q=80p", 
+    "jsonUrl": "https://your-link.com/empty.json", 
+    "appPackage": "com.xyz.xydddddz",
+    "downloadText": "Stay Tuned!"
+  },
 ]
