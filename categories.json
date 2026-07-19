@@ -6,6 +6,13 @@
     "appPackage": "com.radhegopal.hdwallpapers", 
     "downloadText": "Download Radha Krishna APP"
   },
+    {
+    "name": "Mahadev",
+    "thumb": "https://raw.githubusercontent.com/s-n-t-ni-a-p/res-maha/refs/heads/main/S/1.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/s-n-t-ni-a-p/res-maha/refs/heads/main/wallpapers.json",
+    "appPackage": "com.mahadev.lordshiva", 
+    "downloadText": "Download Mahadev Wallpaper APP"
+  },
   {
     "name": "Coming Soon...",
     "thumb": "https://i.pinimg.com/736x/9d/53/a5/9d53a5d52520e8a6ec61a5f36f303942.jpg", 
