@@ -20,7 +20,8 @@
     "appPackage": "com.xyz.xydddddz",
     "downloadText": "Stay Tuned!"
   },
-      "name": "Coming Soon...",
+      {
+    "name": "Coming Soon...",
     "thumb": "https://img.magnific.com/premium-photo/radiant-form-ganpati-idol-nature-background-ganpati-ganesh-chaturthi_491281-1383.jpg?semt=ais_hybrid&w=740&q=80p", 
     "jsonUrl": "https://your-link.com/empty.json", 
     "appPackage": "com.xyz.xydddddz",
