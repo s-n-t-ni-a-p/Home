@@ -5,5 +5,12 @@
     "jsonUrl": "https://raw.githubusercontent.com/s-n-t-ni-a-p/res-rk/refs/heads/main/wallpapers.json",
     "appPackage": "com.radhegopal.hdwallpapers", 
     "downloadText": "Download Radha Krishna APP"
+  },
+  {
+    "name": "Coming Soon...",
+    "thumb": "https://barnworxsk.com/cdn/shop/files/ComingSoonAnnouncement.jpg?v=1745928620&width=713", 
+    "jsonUrl": "https://your-link.com/empty.json", 
+    "appPackage": "com.xyz.xyz",
+    "downloadText": "Stay Tuned!"
   }
 ]
